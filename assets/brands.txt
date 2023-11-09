@@ -1,0 +1,15 @@
+{
+  name:"Code Pub",
+  description:"800 lines of code ? you deserve one beer! the code pub Enim magnam at laborum excepturi reprehenderit.",
+  img:"00_codePub_brand"
+},
+{
+  name:"RGB",
+  description:"Is coffee your friend or foe ? don't take the risk, take a beer Officiis repellat veritatis consectetur tempore.",
+  img:"00_RGB_brand"
+},
+{
+  name:"Pawns's Bar",
+  description:"We are not kings but Quae sunt corporis adipisci quod? Harum optio quisquam repellat.",
+  img:"00_pawnsBar_brand"
+},

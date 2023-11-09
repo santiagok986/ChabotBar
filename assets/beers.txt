@@ -1,0 +1,51 @@
+    {
+        name:"redOne",
+        description:"Irish red ale (Irish: leann dearg), also known as red ale Minus ipsam dolores id odit pariatur esse.",
+        img:"01_redOne",
+        price:10,
+        brand:"rgb"
+    },
+    {
+        name:"greenOne",
+        description:"India pale ale (IPA) is a hoppy beer Veritatis consequuntur natus a placeat!",
+        img:"02_greenOne",
+	price:8,
+        brand:"rgb"
+    },
+    {
+        name:"blueOne",
+        description:"The world's best Beer. Ab sint animi dolores perferendis tempora distinctio iusto.",
+        img:"03_blueOne",
+	price:7,
+        brand:"rgb"
+    },
+    {
+        name:"debugger",
+        description:"Fucking bug! great beer, officia. Error repudiandae accusamus pariatur. ",
+        img:"02_debugger",
+        brand:"code pub"
+    },
+    {
+        name:"coder",
+        description:"Make a loop of six pack, Sunt, iusto tempora possimus eaque quos culpa ipsa.",
+        img:"01_coder",
+        brand:"code pub"
+    },
+    {
+        name:"Ipa JS",
+        description:"The best programing beer, expedita eum impedit eligendi veniam enim ipsa",
+        img:"03_ipaJs",
+        brand:"code pub"
+    },
+    {
+        name:"White Knight",
+        description:"G1 to F3 iusto, illo non magni atque eveniet est numquam quam delectus in.",
+        img:"02_blackKnight",
+        brand:"pawns`s bar"
+    },
+    {
+        name:"Black Rock",
+        description:"1. e4 e5 2. Cf3 Cc6 3. Fc4 Fc5 eaque quos culpa ipsa. Dolor accusantium.",
+        img:"01_blackRock",
+        brand:"pawns`s bar"
+    },
