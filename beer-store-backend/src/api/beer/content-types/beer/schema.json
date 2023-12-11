@@ -4,7 +4,8 @@
   "info": {
     "singularName": "beer",
     "pluralName": "beers",
-    "displayName": "beers"
+    "displayName": "beers",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
@@ -21,14 +22,7 @@
       "type": "decimal"
     },
     "img": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ],
-      "type": "media",
-      "multiple": false
+      "type": "string"
     }
   }
 }
