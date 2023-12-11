@@ -13,7 +13,7 @@ const CartItem = (props) => {
     return (
         <li className="my-2 pb-2 border-b border-secondary flex justify-between">
             <div className="flex">
-                <img className={`w-16 h-16 rounded-full shadow-lg mr-2`} src={img.url} alt={name}/>
+                <img className={`w-16 h-16 rounded-full shadow-lg mr-2`} src={`/${img}`} alt={name}/>
                 <div>
                     <h3 className="text-xl font-bold">{name} </h3>
                     <div className="text-stone-600 text-sm">Unit : ${price}</div>

@@ -16,9 +16,9 @@ const Products = () => {
     const qs  = require('qs')
     const query = qs.stringify({
         populate:{
-            img:{
-                populate:'*'
-            },
+            // img:{
+            //     populate:'*'
+            // },
             beers:{
                 populate:'*'
             }
@@ -77,7 +77,7 @@ const Products = () => {
     return <>
         <div className="text-center mb-3">
             {/* <div className={`w-24 h-24 rounded-full ${brand.img} mx-auto shadow-lg`}></div> */}
-            <img src={brand.img.url} alt={`logo of ${brand.name}`} className={`w-24 h-24 rounded-full mx-auto shadow-lg`} />
+            <img src={`/${brand.img}`} alt={`logo of ${brand.name}`} className={`w-24 h-24 rounded-full mx-auto shadow-lg`} />
             <h1 className="text-2xl text-gray-700 uppercase">{brand.name}</h1>
             <p className='text-sm font-semibold my-2 text-stone-600'>{brand.description}</p>
         </div>

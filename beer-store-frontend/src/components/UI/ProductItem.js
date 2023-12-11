@@ -27,7 +27,7 @@ const ProductItem = (props) => {
     return <li className="flex justify-between border-b border-secondary my-2">
         <div className="flex">
             {/* <div className={`w-14 h-14 rounded-full shadow-lg ${img}`}></div> */}
-            <img src={img.url} alt={`logo of the beer ${name}`} className="w-14 h-14 rounded-full shadow-lg "/>
+            <img src={`/${img}`} alt={`logo of the beer ${name}`} className="w-14 h-14 rounded-full shadow-lg "/>
             <div className="ml-2">
                 <h3 className="text-xl font-bold">{name} </h3>
                 <div className="font-light">{description}</div>
