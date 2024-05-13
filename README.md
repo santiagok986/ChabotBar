@@ -1,6 +1,6 @@
 # Minimarket
 React + strapi v4
-Node version <18 
+Node version <16 
 
 # frontend
 
